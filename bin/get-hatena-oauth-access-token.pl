@@ -64,7 +64,8 @@ Japanese).
 
 =head1 AUTHORS
 
-Wakaba (id:wakabatan) <wakabatan@hatena.ne.jp>, id:shiba_yu36.
+Wakaba (id:wakabatan) <wakabatan@hatena.ne.jp>, id:mechairoi,
+id:shiba_yu36.
 
 =head1 LICENSE
 
